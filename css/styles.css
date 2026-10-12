@@ -1,0 +1,84 @@
+/* Color Palette
+#1F3A5F - dark navy blue
+#4F709C - muted medium blue
+#EADBC8 - warm cream
+#F8F4EA - light cream
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    color: #1F3A5F;
+    background-color: #F8F4EA;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Merriweather", serif;
+}
+
+h1 {
+    font-size: 42px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+header img {
+    border-radius: 50%;
+}
+
+/* Header & Footer 
+------------------------------------*/
+header {
+    background-color: #1F3A5F;
+    color: #F8F4EA;
+    padding: 30px;
+}
+
+footer {
+    background-color: #4F709C;
+    color: #F8F4EA;
+    padding: 20px;
+}
+
+footer a {
+    color: #F8F4EA;
+    font-weight: 600;
+}
+
+
+/* Work Experience
+------------------------------------*/
+.work {
+    background-color: #F8F4EA;
+    padding: 30px;
+}
+
+.work h2 {
+    color: #1F3A5F;
+}
+
+
+/* Education
+------------------------------------*/
+.education {
+    background-color: #EADBC8;
+    padding: 30px;
+}
+
+.education h2 {
+    color: #1F3A5F;
+}
