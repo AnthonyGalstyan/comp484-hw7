@@ -36,16 +36,16 @@ h3 {
     font-weight: 700;
 }
 
-header img {
-    border-radius: 50%;
-}
-
 /* Header & Footer 
 ------------------------------------*/
 header {
     background-color: #1F3A5F;
     color: #F8F4EA;
     padding: 30px;
+}
+
+header img {
+    border-radius: 50%;
 }
 
 footer {
